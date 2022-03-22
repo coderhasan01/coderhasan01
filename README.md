@@ -61,7 +61,4 @@ I Love programming much
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderhasan01&show_icons=true&locale=en" alt="Lutful-Hasan" /></p>
 
 [facebook]: https://www.facebook.com/luful.hasan
-[telegram]: https://t.me/coderhasan01
-[twitter]: 
-[instagram]: 
-[linkedin]: 
+[telegram]: https://t.me/coderhasan01 
