@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/coderhasan01/coderhasan01/blob/main/Wave.gif" height="55px" width="55px">, I'm Lutful-Hasan</h1>
 <h3 align="center">¯\_(ツ)_/¯
   
-Programmer | Developer | Learning new things
+I Love programming much
 
 ?></h3>
 
