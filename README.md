@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/coderhasan01/coderhasan01/blob/main/Wave.gif" height="55px" width="55px">, I'm Lutful-Hasan</h1>
 <h3 align="center">¯\_(ツ)_/¯
-
-Lutful-Hasan
-coderhasan01
+  
 Programmer | Developer | Learning new things
 
 ?></h3>
@@ -62,10 +60,8 @@ Programmer | Developer | Learning new things
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderhasan01&show_icons=true&locale=en" alt="Lutful-Hasan" /></p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[facebook]: https://www.facebook.com/luful.hasan
+[telegram]: https://t.me/coderhasan01
+[twitter]: 
+[instagram]: 
+[linkedin]: 
